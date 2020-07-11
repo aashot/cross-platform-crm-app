@@ -1,0 +1,59 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-keyboard": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-theme-detection": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-wkwebview-file-xhr": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-file-downloader": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-add-swift-support": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    },
+    "cordova-plugin-file-md5": {
+      "PACKAGE_NAME": "io.framework7.myapp"
+    }
+  }
+}
